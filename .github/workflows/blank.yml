@@ -16,8 +16,7 @@ jobs:
       - name: Run a one-line script
         run: echo Hello, world!
       - name: atlas3
-        run: |
-	     
+        run: |     
 pull_request:
     branches:
     - main
